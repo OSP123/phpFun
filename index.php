@@ -63,7 +63,12 @@
 					</p>
 				</aside>
 			</div>
-			<?php include 'footer.php' ?>
+
+			<?php 
+			if ($logged) {
+				include 'footer.php';
+			} 
+			?>
 		</div>
 	</body>
 </html>

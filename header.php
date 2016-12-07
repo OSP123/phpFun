@@ -16,4 +16,5 @@ require "sharedVar.php";
 	<a href="edit_profile.php">Edit</a>
 	<a href="login.php">Login</a>
 	<a href="register.php">Register</a>
+	<a href="update.php">Update</a>
 </nav>
