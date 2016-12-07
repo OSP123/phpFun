@@ -16,4 +16,6 @@ require "sharedVar.php";
 	<div class="copy">
 		<?php echo $copyright ?>
 	</div>
+	<script src="js/jquery-3.1.1.min.js"></script>
+	<script src="js/scripts.js"></script>
 </footer>

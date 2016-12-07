@@ -17,4 +17,5 @@ require "sharedVar.php";
 	<a href="login.php">Login</a>
 	<a href="register.php">Register</a>
 	<a href="update.php">Update</a>
+	<a href="delete.php">Delete</a>
 </nav>
